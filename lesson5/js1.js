@@ -103,6 +103,10 @@ for (let key in appData) {
     }
 }
 
+/*for (const iterator of appData) {
+    console.log("Наша программа включает в себя данные: " + iterator + " - " + appData[iterator]);
+}*/
+
 
 //while
 /*
